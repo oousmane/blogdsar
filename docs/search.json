@@ -18,13 +18,41 @@
     "href": "index.html",
     "title": "blogdsar",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\nThis is a post with executable code.\n\n\n\n\n\n\nApr 29, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\nThis is the first post in a Quarto blog. Welcome!\n\n\n\n\n\n\nApr 26, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nApr 29, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nApr 26, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Accueil",
     "section": "",
-    "text": "About this blog"
+    "text": "Bienvenue sur mon blog sur la Data Science ! J’aime jouer avec les données et essayer de comprendre le monde à travers le prisme des statistiques, du machine learning et de l’IA. J’aime aussi apprendre, enseigner et créer. Avoir un blog personnel combine de manière optimale ces trois passions.Tout cela est rendu possible grâce à R et RStudio. C’est pourquoi j’❤️ R !"
+  },
+  {
+    "objectID": "about.html#moi-en-bref",
+    "href": "about.html#moi-en-bref",
+    "title": "Accueil",
+    "section": "Moi en bref",
+    "text": "Moi en bref\nSalut 👋🏻 Je suis météo 🌦️ et je travaille à l’ Agence Nationale de la Météorologie à Ouagadougou, Burkina Faso.\nJe fais également du Freelance : Analyse et visualisation de données, modélisation statistique, calcul scientifique."
+  },
+  {
+    "objectID": "about.html#compétences",
+    "href": "about.html#compétences",
+    "title": "Accueil",
+    "section": "Compétences",
+    "text": "Compétences\nBien que Météo de formation professionnelle, et Mathématicien de formation académique j’ ai pu bâtir de solides compétences en\n\nTraitement et analyse de données\nCalculs et modélisation statistiques\nTraitement et analyses géospatiales\nProgrammation littéraire et rapports automatisés\nCalculs d’indices (bio)climatiques variés et\nAcquisition, manipulation de données météo-climat\nGestion des données climatiques/environnementales\nVisualisation de données"
+  },
+  {
+    "objectID": "about.html#outils",
+    "href": "about.html#outils",
+    "title": "Accueil",
+    "section": "Outils",
+    "text": "Outils\n\nR et R Studio : que j’utilise à près de 90% du temps.\nLinux/Unix , CDO\nSurfer,QGIS, Panoply, Geoda\nClimate Predictability Tool, Climate Data Tool,\nGithub pour le contrôle de version et l’hébergement web\nRMarkdown, Quarto pour la programmation littéraire\nMS Office : Suite Bureautique Microsoft"
+  },
+  {
+    "objectID": "about.html#parcours-académique",
+    "href": "about.html#parcours-académique",
+    "title": "Accueil",
+    "section": "Parcours académique",
+    "text": "Parcours académique\nIngénieur Agrométéorologie | AGRHYMET | En cours ,Niamey-Niger\nLicence Maths & Info | U03S | 2019 , Ouaga - Burkina Faso\nTS Météorologie | EAMAC | 2014 , Niamey-Niger"
   }
 ]

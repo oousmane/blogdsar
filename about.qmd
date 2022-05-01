@@ -1,19 +1,74 @@
 ---
-title: "About"
-image: profile.jpg
+title: "Accueil"
+image: ousmane.jpg
 about:
-  template: jolla
+  template: marquee
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
+      href: https://twitter.com/oousmane_11
+    - icon: facebook
+      text: Facebook
+      href: https://www.facebook.com/oousmane.aly
     - icon: github
       text: Github
-      href: https://github.com
-
+      href: https://github.com/oousmane
 ---
 
-About this blog
+## Bienvenue !
+
+Bienvenue sur mon blog sur la Data Science !
+J'aime jouer avec les données et essayer de comprendre le monde à travers le prisme des statistiques, du machine learning et de l'IA.
+J'aime aussi apprendre, enseigner et créer.
+Avoir un blog personnel combine de manière optimale ces trois passions.Tout cela est rendu possible grâce à R et RStudio.
+C'est pourquoi j'❤️ R !
+
+## Moi en bref
+
+Salut 👋🏻 Je suis météo 🌦️ et je travaille à l' **Agence Nationale de la Météorologie** à **Ouagadougou, Burkina Faso**.
+
+Je fais également du **Freelance** : Analyse et visualisation de données, modélisation statistique, calcul scientifique.
+
+## Compétences
+
+Bien que Météo de formation professionnelle, et Mathématicien de formation académique j' ai pu bâtir de solides compétences en
+
+-   Traitement et analyse de données
+
+-   Calculs et modélisation statistiques
+
+-   Traitement et analyses géospatiales
+
+-   Programmation littéraire et rapports automatisés
+
+-   Calculs d'indices (bio)climatiques variés et
+
+-   Acquisition, manipulation de données météo-climat
+
+-   Gestion des données climatiques/environnementales
+
+-   Visualisation de données
+
+## Outils
+
+-   R et R Studio : que j'utilise à près de 90% du temps.
+
+-   Linux/Unix , CDO
+
+-   Surfer,QGIS, Panoply, Geoda
+
+-   Climate Predictability Tool, Climate Data Tool,
+
+-   Github pour le contrôle de version et l'hébergement web
+
+-   RMarkdown, Quarto pour la programmation littéraire
+
+-   MS Office : Suite Bureautique Microsoft
+
+## Parcours académique
+
+**Ingénieur Agrométéorologie** \| AGRHYMET \| En cours ,Niamey-Niger
+
+**Licence Maths & Info** \| U03S \| 2019 , Ouaga - Burkina Faso
+
+**TS Météorologie** \| EAMAC \| 2014 , Niamey-Niger
