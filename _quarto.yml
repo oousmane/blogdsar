@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Blog Data Science avec R"
+  title: "Data Science avec R le blog !"
   navbar:
     right:
       - about.qmd
